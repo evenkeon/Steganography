@@ -1,12 +1,14 @@
-! First you need to download Python IDLE, Here is the steps for download Python IDLE in Windows:
+!!! First you need to download Python IDLE !!!
+-------------------------------------------------------------------------------------------------------------
+Here is the steps for download Python IDLE in Windows:
 
-Step1- Download Python:
+Step1- Download Python:-
 
 Visit the Python Downloads page.
 
 Click the "Download Python" button. It will download an installer file.
 
-Step2- Run the Installer:
+Step2- Run the Installer:-     
 
 Open the downloaded installer file.
 
@@ -14,19 +16,19 @@ Important: Check the box that says "Add Python to PATH".
 
 Click "Install Now".
 
-Step3- Finish Installation:
+Step3- Finish Installation:-
 
 Follow the prompts to complete the installation.
 
 Once done, close the installer.
 
-Step4- Open Python IDLE:
+Step4- Open Python IDLE:-
 
 Go to the Start menu and search for "IDLE".
 
 Click on "IDLE (Python 3.x)" to open it.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------
 
 Steganography in Python (IDLE) using OpenCV 
 
@@ -37,4 +39,4 @@ os.system('pip install opencv-python') OR Go Command Prompt Select start as "Run
    
 3. Run
 
--------------------------------------------------------------- T H A N K -- Y O U -------------------------------------------------------------------------------------
+-------------------------------------------------------------- T H A N K -- Y O U -------------------------------------------------------------
