@@ -30,10 +30,10 @@ Click on "IDLE (Python 3.x)" to open it.
 ----------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
-Steganography in Python (IDLE) using OpenCV 
+!!! STEGANOGRAPHY IN PYTHON (IDLE) USING OPENCV !!! 
 
 1. Install Required Libraries: First, you need to install the opencv-python library. Open Python IDLE and run the following command in the interactive shell: import os
-os.system('pip install opencv-python') OR Go Command Prompt Select start as "Run as administrator" and type pip install opencv-python and enter.
+os.system('pip install opencv-python') OR Go to Command Prompt Select start as "Run as administrator" and type pip install opencv-python and enter.
 
 2.  Write the encryption and decryption Script: Create a new Python file (e.g., encryptiondecryption.py)
    
