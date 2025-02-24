@@ -1,5 +1,8 @@
+***SECURE DATA HIDING IN IMAGE USING STEGANOGRAPHY***
+-----------------------------------------------------------------------------------------------------------
+
 !!! First you need to download Python IDLE !!!
--------------------------------------------------------------------------------------------------------------
+
 Here is the steps for download Python IDLE in Windows:
 
 Step1- Download Python:-
